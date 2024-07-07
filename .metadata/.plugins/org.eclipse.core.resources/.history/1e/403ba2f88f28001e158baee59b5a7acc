@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Ad_13_servlet_configParameter_use">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="Ad_13_servlet_configParameter_use"/>
+        <property name="java-output-path" value="/Ad_13_servlet_configParameter_use/build/classes"/>
+    </wb-module>
+</project-modules>

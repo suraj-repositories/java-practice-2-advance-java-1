@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<hr>
+<h1>Index.jsp file</h1>
+<hr>
+<a href="link">This is a link</a>
+<%
+	// you can write java & html both in jsp file
+
+	System.out.println("hello world");
+	int i=90;
+	int j=89;
+	System.out.println("sum = " +(i+j));
+
+	out.write("This writes on html");
+%>
+
+
+<h3> -- Got it --</h3>
+</body>
+</html>

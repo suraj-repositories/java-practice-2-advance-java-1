@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Ad_16_SessionIntroduction">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <property name="context-root" value="Ad_16_SessionIntroduction"/>
+        <property name="java-output-path" value="/Ad_16_SessionIntroduction/build/classes"/>
+    </wb-module>
+</project-modules>

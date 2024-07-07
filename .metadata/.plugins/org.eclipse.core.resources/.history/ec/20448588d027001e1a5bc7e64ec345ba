@@ -1,0 +1,24 @@
+
+<%@ page import = "java.util.Random" %>
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>FAKE MOBILE NUMBER'S</h1>
+	
+	<%
+		Random random = new Random();
+		
+		String number = "+9198"+((random.nextDouble() + "").substring(0,8));
+	
+	%>
+
+
+</body>
+</html>

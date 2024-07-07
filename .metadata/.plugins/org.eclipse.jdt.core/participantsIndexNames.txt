@@ -1,0 +1,35 @@
+INDEX VERSION 1.132
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\466479887.index
+\Ad_20_implicitObjects_intro\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2962606572.index
+\Ad_16_SessionIntroduction\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2706310187.index
+\Ad_19_Cockiee_disabled_contactSession\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3736075297.index
+\Ad_23_jspMappingXML_init_param\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3813061188.index
+\Ad_21_understanding_whereUse\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1317367040.index
+\Ad_10_JSP_fakeMobileNumber\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2836221155.index
+\Ad_20_implicitObjects_intro\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1696226776.index
+\Ad_24_Attributes_dataTransferJspToServlet\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\860192714.index
+\Ad_17_SaveSessionData\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3650633317.index
+\Ad_20_implicitObjects_intro\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3451249241.index
+\Ad_26_Request_and_Session_scope\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\691760949.index
+\Ad_25_attributesReqestScope\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4214751957.index
+\Ad_18_ContactSession_practice\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\440412276.index
+\AD_Servlet_01\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2045131406.index
+\Ad_09_JSPuse\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2506312170.index
+\Ad_22_jspTojspDataTransfer\src\main\java
+E:\Advance Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3613467477.index
+\Ad_07_fakeCreditCardNumber\src\main\java

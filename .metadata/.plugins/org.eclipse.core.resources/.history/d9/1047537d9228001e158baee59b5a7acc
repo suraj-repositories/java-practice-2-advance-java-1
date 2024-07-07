@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h1>Servlet context parameter - available in all servlet</h1>
+<h2>STEPS :</h2>
+
+<p> go on /xyz</p>
+<P>BACK</P>
+<p> go on /abc</p>
+
+<h3>now change the shop name from web.xml and see the difference (repeat all the steps)</h3>
+</body>
+</html>
